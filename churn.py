@@ -13,7 +13,7 @@ import joblib
 
 # 🔹 Load and Inspect the Data
 
-df = pd.read_csv("WA_Fn-UseC_-Telco-Customer-Churn.csv")
+df = pd.read_csv("tele_churn.csv")
 print(df.head())
 
 print(df.info())
