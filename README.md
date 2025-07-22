@@ -9,8 +9,10 @@ The goal here was to build a classification model that takes in customer info an
 ---
 
 ## Files in This Repo
-- `churn_prediction.ipynb`: Main Jupyter notebook with all the code.
-- `churn_data.csv`: The dataset I used (if it's not here, it's probably too big for GitHub).
+- `WA_Fn-UseC_-Telco-Customer-Churn.csv`
+- `churn.py`
+- `churn_model.pkl`
+- `logistic_model.pkl`
 - `README.md`: This file you're reading right now.
 
 ---
